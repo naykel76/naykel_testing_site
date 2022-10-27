@@ -1,0 +1,28 @@
+{
+  "main": {
+    "links": [
+      {
+        "title": "Home",
+        "route_name": "home",
+        "icon": "home",
+        "exclude_route": true
+      },
+      {
+        "title": "Contact",
+        "route_name": "contact",
+        "icon": "contact",
+        "exclude_route": true
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "title": "Home",
+        "route_name": "home",
+        "icon": "home",
+        "exclude_route": true
+      }
+    ]
+  }
+}
